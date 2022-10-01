@@ -1,3 +1,5 @@
+# Computer Vision 1
+
 This repository contains lab assignments for the 2021-2022 computer vision 1 course at University of Amsterdam. The cource offers deep knowledge on 
 traditional computer vision concepts and methods:
 
